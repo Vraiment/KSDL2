@@ -1,0 +1,10 @@
+# IDE, Gradle objects
+*iml
+/.idea
+/out
+/build
+.gradle
+
+# Operating system generated objects
+.DS_Store
+
